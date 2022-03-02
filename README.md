@@ -1,2 +1,2 @@
 # OKSA
-This is my smart assistant project in the direction of smart home
+T这是一个用于智能家居的智能助手。其硬件基于Arduino MEGA2560,包含多种传感器，是专门用于智能家居的终端设备。其开发方式为Arduino IDE，同时还可以使用图形化进行编程。非常适合广大电子爱好者、创客等朋友来使用或二次开发。该项目还有诸多玩法等待您来开发，心动就行动起来吧。
